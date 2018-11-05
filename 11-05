@@ -1,0 +1,74 @@
+<head>
+    <meta charset="UTF-8" name="viewport" content="width=device-width, initial-scale=1"/>
+</head>
+<style>
+    aside{display:none}
+    main{width:100%}
+    #contact #content main {width: 100%;}
+    @media screen and (min-width: 100px) {.learnimg{margin: 0} .fightimg{margin: 0;}}
+    @media screen and (min-width: 480px) {}
+    @media screen and (min-width: 768px) {
+        .fightimg {width:30%; margin-right:70px; margin-left: 15px;}
+        .learnimg{width:30%; margin-left:40px; margin-right: 25px}
+    }
+    @media screen and (min-width: 992px) {
+        .fightimg {width:40%; margin-right:70px; margin-left: 15px;}
+        .learnimg {width:40%; margin-left:40px; margin-right: 25px}
+    }
+</style>
+<p>
+    <a href="https://www.ticketmaster.com/san-antonio-rampage-vs-rockford-icehogs-san-antonio-texas-11-17-2018/event/3A0054F3D3AF39E9?CAMEFROM=CFC_RAMPAGE_WEB_HUBPAGE_SINGLEGAMETICKETS" target="_blank">
+        <img src="http://www.sarampage.com/images/uploads/HFC_1200x200_v2.png" width="100%" alt=""></a>
+</p>
+<div style="text-align:center">
+    <a href="https://www.nba.com/.element/media/2.0/teamsites/spurs/Danielle/hfc-sign.pdf" target="_blank" style="">
+        <img src="http://www.sarampage.com/images/uploads/FightFor-button.png" class="fightimg">
+    </a>
+
+    <a href="https://www.nhl.com/community/hockey-fights-cancer" target="_blank" style="">
+        <img src="http://www.sarampage.com/images/uploads/learnmore-button.png"class="learnimg"> </a>
+</div>
+<p>
+    <font size="5"><center>Hockey Fights Cancer Night </center></font>
+</p>
+<p>
+    <font size="4"><center>November 17th, 2018 at 7:00pm </center></font>
+</p>
+<p>
+    <font size="3"><center> The San Antonio Rampage will celebrate Hockey Fights Cancer during the November 17th game against the Rockford Icehogs at 7PM. Hockey Fights Cancer unites the hockey community in support of cancer patients & their families. The initiative gets an assist from players, coaches, officials, broadcasters, equipment managers, front office staff, corporate partners & fans. Together, the hockey community looks to inspire hope and courage for those who are living with, going through & moving past cancer. The Rampage will wear the color lavender for the night, the universal color in support of all cancers.</center></font>
+</p>
+<p>
+    <font size="3"><center>Fans can add a limited-edition Hockey Fights Cancer t-shirt to their ticket package for an additional $6, while supplies last.  </center></font>
+</p>
+<p>
+<center>
+    <a href="https://www.ticketmaster.com/san-antonio-rampage-vs-rockford-icehogs-san-antonio-texas-11-17-2018/event/3A0054F3D3AF39E9?CAMEFROM=CFC_RAMPAGE_WEB_HUBPAGE_SINGLEGAMETICKETS" target="_blank">
+        <img src="http://www.sarampage.com/images/uploads/HFC-Shirt-Web.png" width="100%" alt=""></center>
+</a>
+
+</p>
+<p>
+    <font size="3"><center>First 2,000 fans will receive a commemorative Hockey Fights Cancer rally towel, and Hockey Fights Cancer interactive signs will be available for all in attendance for the game.</center> </font>
+</p>
+<p>
+    <font size="3"><center>It’s also Ticket + 2 Beers night, where fans can add two(2) 16 oz. beers to any ticket for just $6.</a></center></font>
+</p>
+<p>
+    <font size="3"><center>Stay post-game for a special jersey auction, benefitting the Thrivewell Cancer Foundation</a></center></font>
+</p>
+<p>
+<center> <img src="http://www.sarampage.com/images/uploads/HFC_1200x200.png" width="100%" alt=""></center>
+</p>
+<p>
+    <font size="3"><center>Submit a friend, family member or individual that has been affected by cancer and let us know why they are a hero in your eyes.</center></font>
+</p>
+
+<script type="text/javascript" src="https://attcenter.formstack.com/forms/js.php/my_hero_submission"></script>
+
+<noscript><a href="https://attcenter.formstack.com/forms/my_hero_submission" title="Online Form">Online Form - My Hero Submission</a></noscript><div style="text-align:right; font-size:x-small;">
+
+    <a href="http://www.formstack.com?utm_source=jsembed&utm_medium=product&utm_campaign=product+branding&fa=h,3244838" title="Powered by Formstack">Powered by Formstack</a></div>
+
+<center>
+    <a href="https://www.nba.com/.element/media/2.0/teamsites/spurs/Danielle/My%20Hero%20Nomination%20Rules%20(Final).pdf">Contest Rules and Regulations</a>
+</center>
